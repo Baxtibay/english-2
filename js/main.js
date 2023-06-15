@@ -249,8 +249,8 @@ const answersDB = () => [
   },
   {
     quostion: "Cats _____ very well in darkness",
-    a: "see ",
-    b: "are seeing ",
+    a: "are seeing ",
+    b: "see",
     c: "will ",
     d: "sees"
   },
