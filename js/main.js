@@ -814,6 +814,181 @@ const answersDB = () => [
     c: "Skill",
     d: "Degree"
   },
+  {
+    quostion: "We have lived in Bristol _____ three years.",
+    a: "for",
+    b: "in",
+    c: "since",
+    d: "on"
+  },
+  {
+    quostion: "I left college three years _____",
+    a: "ago",
+    b: "last",
+    c: "for",
+    d: "since"
+  },
+  {
+    quostion: "_____ three languages: French, Spanish, and English",
+    a: "speak",
+    b: "am speak",
+    c: "am speakig",
+    d: "can speaking"
+  },
+  {
+    quostion: "Where _____ from?",
+    a: "does Hans come",
+    b: "does Hans comes",
+    c: "is Hans come from",
+    d: "Hans come"
+  },
+  {
+    quostion: "“What _____ ?”,“I don’t know. Look it up.”",
+    a: "does this word mean",
+    b: "is this word mean",
+    c: "does mean this word",
+    d: "this word meaning"
+  },
+  {
+    quostion: "“Do you want a cigarette?”,“No, thanks. I _____ .”",
+    a: "don't smoke",
+    b: "isn't smoke",
+    c: "am not smoke",
+    d: "not smoke"
+  },
+  {
+    quostion: "Last year I _____ to America",
+    a: "went",
+    b: "was",
+    c: "go",
+    d: "goed"
+  },
+  {
+    quostion: "How many sisters _____ ?",
+    a: "do you have",
+    b: "have you",
+    c: "do you have got",
+    d: "you have"
+  },
+  {
+    quostion: "Usually Jim _____ to work on Saturdays",
+    a: "goes",
+    b: "go",
+    c: "come",
+    d: "does"
+  },
+  {
+    quostion: "A- How _____ languages can your son speak?,B- Three _____.",
+    a: "many/languages",
+    b: "much/languages",
+    c: "many/language",
+    d: "much/language"
+  },
+  {
+    quostion: "____ kind _____ music do you like?",
+    a: "What / of",
+    b: "How / of",
+    c: "What / *",
+    d: "What / *"
+  },
+  {
+    quostion: "Mobile phones, televisions, and radios are a means of _____",
+    a: "civilization",
+    b: "media",
+    c: "civilization",
+    d: "transport"
+  },
+  {
+    quostion: "Nowadays media has a huge influence on the _____",
+    a: "society",
+    b: "pressing",
+    c: "printing",
+    d: "neighbors"
+  },
+  {
+    quostion: "We _____ to a party next Saturday",
+    a: "are going",
+    b: "going",
+    c: "go",
+    d: "will going"
+  },
+  {
+    quostion: "I was born in Africa _____ 1970",
+    a: "in",
+    b: "at",
+    c: "on",
+    d: "to"
+  },
+  {
+    quostion: "My parents moved back to England _____ I was five",
+    a: "when",
+    b: "to",
+    c: "at",
+    d: "on"
+  },
+  {
+    quostion: "I found a flat on my own _____ last year",
+    a: "*",
+    b: "in",
+    c: "at",
+    d: "last"
+  },
+  {
+    quostion: "- _______ did you start your business?,- Two years ago",
+    a: "when",
+    b: "how",
+    c: "what",
+    d: "where"
+  },
+  {
+    quostion: "-______ do you feel yourself?,- Much better",
+    a: "how",
+    b: "which",
+    c: "who",
+    d: "what"
+  },
+  {
+    quostion: "They all live ____ Nukus",
+    a: "in",
+    b: "of",
+    c: "on",
+    d: "at"
+  },
+  {
+    quostion: "This plane flies_______ New York _______ Boston",
+    a: "from/to",
+    b: "to/from",
+    c: "to/in",
+    d: "to/to"
+  },
+  {
+    quostion: "-Where ____ you yesterday ?,- I _______ at my friend's house",
+    a: "were/was",
+    b: "were/were",
+    c: "was/was",
+    d: "was/were"
+  },
+  {
+    quostion: "Look! There is a bear _________",
+    a: "dancing",
+    b: "dance",
+    c: "danced",
+    d: "is dancing"
+  },
+  {
+    quostion: "His house is _____ than mine",
+    a: "bigger",
+    b: "biggest",
+    c: "big",
+    d: "more bigger"
+  },
+  {
+    quostion: "This is _______ restaurant I have ever visited",
+    a: "the best",
+    b: "good",
+    c: "best",
+    d: "better"
+  },
 ];
 
 answersDB().forEach((item, index) => {
